@@ -1,0 +1,7 @@
+'''
+    variables that contain API keys for App - SentimentAnalysis487
+'''
+ACCESS_TOKEN = '1179057246694592512-rPFMkOxWwwWyiF2TV8ROEofoe4SNzT'
+ACCESS_TOKEN_SECRET = 'DH5eKkQ0Et6CBancWAMugLMphcIVvQoD0DGjyXasO8ifY'
+CONSUMER_KEY = 'VTAyetbdlT9oEKYtnxP8IHfhF'
+CONSUMER_SECRET = 'nEdD8HFshHm2DsNpFjr4hbReCK3rJsEFz0OMlGBDqn09JeUBSB'
